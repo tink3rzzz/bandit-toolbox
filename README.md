@@ -11,8 +11,8 @@ As someone who is still gaining experience in writing Python for cybersecurity u
 ## Table of Contents
 - [About](#about)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Environment Variables](#environment-variables)
+- [Usage](#usage)
 - [Disclaimer](#disclaimer)
 
 ### About
