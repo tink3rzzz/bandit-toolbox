@@ -31,7 +31,9 @@ cd bandit-toolbox
 ```
 
 2. Install required Python packages (if any):
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 **NOTE:** A `requirements.txt` file is in the making as I create more scripts
 
