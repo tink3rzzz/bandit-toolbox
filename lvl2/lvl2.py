@@ -2,7 +2,7 @@ import paramiko
 import os
 
 # SSH CONNECTION DETAILS
-host = "target_host"
+host = "bandit.labs.overthewire.org"
 port = 2220
 user = "bandit1"
 password = os.getenv("BANDIT_PASS")
