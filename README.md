@@ -46,8 +46,8 @@ All scripts use environment variables to avoid hardcoding credentials:
 
 ### Usage
 1. Set environment variables for credentials to keep them secure:
-Bash: `export BANDIT_PASS=<password>`
-Windows PowerShell: `setx BANDIT_PASS <password>`
+- Bash: `export BANDIT_PASS=<password>`
+- Windows PowerShell: `setx BANDIT_PASS <password>`
 
 2. Run the script for a specific level:
 `python3 bandit#.py`
